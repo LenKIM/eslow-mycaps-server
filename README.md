@@ -19,4 +19,5 @@
 누워있는 사람 인식: https://youtu.be/2qeVXpQ4lbw  
 목소리 인식: https://youtu.be/hMTZGZuYJtE  
 
-- [개발 회고](https://github.com/LenKIM/eslow-mycaps-server/blob/master/%EA%B0%9C%EB%B0%9C%ED%9A%8C%EA%B3%A0.md}
+- [개발 회고](https://github.com/LenKIM/eslow-mycaps-server/blob/master/%EA%B0%9C%EB%B0%9C%ED%9A%8C%EA%B3%A0.md)
+
