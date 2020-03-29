@@ -7,12 +7,12 @@
 
 
 ## 시스템 구상도
-![](https://ws2.sinaimg.cn/large/006tNc79gy1g1t3qwkewej30pr0hnn04.jpg)
+![](https://tva1.sinaimg.cn/large/006tNc79gy1g1t3qwkewej30pr0hnn04.jpg)
 
 ## 결과물
 
 - Iot 기기  
-  ![](https://ws1.sinaimg.cn/large/006tKfTcgy1g1pin5a5kyj303w03qt94.jpg)
+  ![](https://tva1.sinaimg.cn/large/006tKfTcgy1g1pin5a5kyj303w03qt94.jpg)
 
 - 동영상
 
